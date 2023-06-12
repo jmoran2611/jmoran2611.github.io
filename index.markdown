@@ -5,5 +5,3 @@
 layout: home
 title: Home
 ---
-
-This should index everything?
