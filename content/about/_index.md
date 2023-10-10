@@ -12,3 +12,4 @@ Afterwards I started my international journey by moving to The Netherlands and t
 Since September 2019 I am a PhD student working with Prof. F. Roepke in the [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/ "HITS"), working on three-dimensional magneto-hydrodynamical simulations of stellar binary interactions, such as common-envelope events, stellar mergers, and merger-induced thermonuclear explosions.
 
 
+Check my CV [here](./CV_2023.pdf)!

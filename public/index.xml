@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javier Moran-Fraile personal website</title>
+    <title>Javier Moran-Fraile</title>
     <link>https://jmoran2611.github.io/</link>
-    <description>Recent content on Javier Moran-Fraile personal website</description>
+    <description>Recent content on Javier Moran-Fraile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Oct 2023 15:56:54 +0200</lastBuildDate><atom:link href="https://jmoran2611.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Javier Moran Fraile</copyright><atom:link href="https://jmoran2611.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://jmoran2611.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 08 Oct 2023 15:56:54 +0200</pubDate>
+      <title>Gravitational wave emission from dynamical stellar interactions</title>
+      <link>https://jmoran2611.github.io/publications/gw2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jmoran2611.github.io/posts/my-first-post/</guid>
-      <description>Introduction This is my first paper</description>
+      <guid>https://jmoran2611.github.io/publications/gw2023/</guid>
+      <description>Authors: Morán-Fraile, Javier; Schneider, Fabian R. N.; Röpke, Friedrich K.; Ohlmann, Sebastian T.; Pakmor, Rüdiger; Soultanis, Theodoros; Bauswein, Andreas</description>
+    </item>
+    
+    <item>
+      <title>Test video</title>
+      <link>https://jmoran2611.github.io/videos/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmoran2611.github.io/videos/test/</guid>
+      <description> Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player! </description>
     </item>
     
   </channel>
