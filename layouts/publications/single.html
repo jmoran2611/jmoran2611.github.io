@@ -2,10 +2,10 @@
 
 <h1>{{ .Title }}</h1>
 <div class="tags">
-  {{ partial "articles/tags" .}}
+  {{ partial "publications/tags" .}}
 </div>
 
-<img title="{{.Title}}" alt="{{.Title}}" src="/articles/{{ .Params.Thumbnail }}" />
+<img title="{{.Title}}" alt="{{.Title}}" src="/publications/{{ .Params.Thumbnail }}" />
 
 {{ .Content }}
 
@@ -13,7 +13,7 @@
   <h3>Testimonial</h3>
   <div class="testimonial-list">
     {{ with .Params.testimonial }}
-        {{ partial "articles/testimonial" . }}
+        {{ partial "publications/testimonial" . }}
     {{ end }}
   </div>
 {{ end }}
