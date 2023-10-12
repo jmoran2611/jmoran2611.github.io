@@ -19,5 +19,7 @@ The merger of a white dwarf (WD) and a neutron star (NS) is a relatively common 
 
 
 ### Videos
-3D volume rendering of the last 100s of the artificial orbit shrinking, disruption of the WD, and formation of the jet. For clarity, densities below $10^{3}g/cm^{3}$ and velocities below 0.03c are fully transparent. Accurate values for these magnitudes and others are shown in 2D slices in the additional material available at [zenodo](https://doi.org/10.5281/zenodo.8073873).
+3D volume rendering of the last 100s of the artificial orbit shrinking, disruption of the WD, and formation of the jet. For clarity, densities below $10^{3}g/cm^{3}$ and velocities below 0.03c are fully transparent.
+The size of the neutron star has been scaled up so that it encompasses the volume where the gravitational potential has been softened.
+Accurate values for these magnitudes and others are shown in 2D slices in the additional material available at [zenodo](https://doi.org/10.5281/zenodo.8073873).
 {{< video src="movie_jet" >}}
