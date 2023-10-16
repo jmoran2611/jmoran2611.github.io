@@ -6,7 +6,7 @@ work: [GW, NS, WD]
 date: "2023-10-01T19:47:09+02:00"
 jobDate: 2023
 thumbnail:  thumbnails/jet.png
-projectUrl: https://ui.adsabs.harvard.edu/abs/2023A%26A...672A...9M/abstract
+projectUrl: https://arxiv.org/abs/2310.08623
 ---
 
 Authors: Morán-Fraile, Javier; Röpke, Friedrich K.; Pakmor, Rüdiger; Aloy, Miguel A.; Ohlmann, Sebastian T.; Schneider, Fabian R. N.; Leidi, Giovanni; 
