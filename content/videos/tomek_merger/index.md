@@ -7,7 +7,9 @@ date: "2024-03-15T07:40:09"
 jobDate: 2024
 ---
 
-##3DMHD simulation of the merger of a $0.4M_\odot$ RG core with a $0.2M_\odot$HeWD.
+</br> 
+
+##3DMHD simulation of the merger of a 0.4M⊙ RG core with a 0.2M⊙ HeWD.
 
 (Simulation performed with the code [AREPO](https://ui.adsabs.harvard.edu/abs/2019ascl.soft09010S/abstract))
 
