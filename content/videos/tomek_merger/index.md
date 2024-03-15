@@ -1,6 +1,7 @@
 ---
 title: RG core - HeWD merger 
 description: Merger of a He RG core with a low-mass HeWD 
+index: false
 work: [WDs]
 date: "2024-03-15T07:40:09"
 jobDate: 2024
