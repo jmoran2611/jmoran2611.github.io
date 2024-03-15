@@ -9,6 +9,8 @@ jobDate: 2024
 
 ##3DMHD simulation of the merger of a $0.4M_\odot$ RG core with a $0.2M_\odot$HeWD.
 
+(Simulation performed with the code [AREPO](https://ui.adsabs.harvard.edu/abs/2019ascl.soft09010S/abstract))
+
 </br> 
  
 ### Density evolution x-y plane
