@@ -1,5 +1,5 @@
 ---
-title: RG core - HeWD merger 
+title: 3DMHD simulation of the merger of a 0.4M⊙ RG core with a 0.2M⊙ HeWD.
 description: Merger of a He RG core with a low-mass HeWD 
 index: false
 work: [WDs]
@@ -9,7 +9,6 @@ jobDate: 2024
 
 </br> 
 
-##3DMHD simulation of the merger of a 0.4M⊙ RG core with a 0.2M⊙ HeWD.
 
 (Simulation performed with the code [AREPO](https://ui.adsabs.harvard.edu/abs/2019ascl.soft09010S/abstract))
 
