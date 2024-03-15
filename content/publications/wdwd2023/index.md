@@ -4,7 +4,7 @@ description: none
 work: [SNe, WDs]
 data: "2024-02-20T10:47:09+02:00"
 jobDate: 2024
-thumbnail:  thumbnails/wdwd2024.png
+thumbnail:  thumbnails/wdwd2024.jpg
 projectUrl: https://ui.adsabs.harvard.edu/abs/2024A%26A...683A..44M/abstract 
 ---
 
