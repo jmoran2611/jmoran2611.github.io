@@ -16,4 +16,4 @@ Since them I am a post-doctoral researcher working on Prof. Roepke's group.
  [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Mor%C3%A1n-Fraile%2C%20Javier%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 
-Check my CV [here](./CV_2023.pdf)!
+Check my CV [here](./CV_2024.pdf)!

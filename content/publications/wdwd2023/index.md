@@ -1,8 +1,9 @@
 ---
-title: Faint calcium-rich transient from a double detonation of a 0.6 M⊙ carbon-oxygen white dwarf star
+math : true
+title: 'Faint calcium-rich transient from a double detonation of a 0.6 M⊙ carbon-oxygen white dwarf star'
 description: none
 work: [SNe, WDs]
-date: "2024-02-20T10:47:09+02:00"
+date: 2024-02-20T10:47:09+02:00
 jobDate: 2024
 thumbnail:  thumbnails/wdwd2024.jpg
 projectUrl: https://ui.adsabs.harvard.edu/abs/2024A%26A...683A..44M/abstract 
@@ -18,13 +19,13 @@ We have computed a 3D hydrodynamic simulation of the merger between a massive (0
 
 ### Videos:
 
-Videos can be found at [zenodo](https://doi.org/10.5281/zenodo.8268166).\
+Videos can be found at [zenodo](https://doi.org/10.5281/zenodo.8268166).
+
 
 
 </br>
 
 </br>
-[(Related simulation)]({{< ref "videos/resolved_ignition">}})
 </br>
 
 
