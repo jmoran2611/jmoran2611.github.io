@@ -36,6 +36,8 @@ The magnitude of scales that this simulation covers is better appreciated in the
 \
 For reference, this is how the close-up looks like compared to the beautiful city of Heidelberg
 
-![Resolved ignition with Heidelberg for scale](Heidelberg_scale.png) {height = 1000px}
-{{< figure src="./Heidelberg_scale.png" width="200" alt="Gravel Calls" class="left" >}}
+
+![Resolved ignition with Heidelberg for scale](Heidelberg_scale.png?width=200pc )
+
+[comment]: <> ( {{< imgresize Heidelberg_scale.png "2400x1200" "Alternate Text" >}})
 
