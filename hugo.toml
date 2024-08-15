@@ -26,7 +26,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['publications'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['post'] # values: ['publications','post', 'portfolio'] only accept one section, to be displayed bellow 404
   rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
@@ -37,13 +37,13 @@ pygmentsCodeFences=true
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "article"
+  post = "post"
   videos = "videos"
 
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "images/profile-pic.png" # - default "/images/edna-west.jpg"
+  logo = "images/profile-pic.png" # - default 
 [params.assets]
   favicon = ""
   customCSS = ""
@@ -82,10 +82,10 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Post"
+  identifier = "post"
+  name = "Posts"
   title = "Blog section"
-  url = "/posts/"
+  url = "/post/"
   weight = -100
 
 [[menu.main]]
