@@ -1,5 +1,5 @@
 ---
-title: POSTS
-descritpion: 'Stuff that I post'
+title: Post
+descritpion: 'My blog'
 ---
 
